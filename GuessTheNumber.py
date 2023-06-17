@@ -1,8 +1,3 @@
-'''
-Created on Mar 1, 2021
-
-@author: martinyanev
-'''
 
 '''
 1. Change the number reange from 1 to 1.000.000
